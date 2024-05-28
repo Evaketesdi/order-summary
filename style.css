@@ -84,3 +84,18 @@ body {
   color: hsl(224, 23%, 55%);
   font-weight: 700;
 }
+.change-button:hover,
+.payment-button:hover,
+.cancel-button:hover {
+  cursor: pointer;
+  text-decoration: none;
+}
+.cancel-button:hover {
+  color: hsl(223, 47%, 23%);
+}
+.payment-button:hover {
+  background-color: hsl(245, 69%, 60%);
+}
+.change-button:hover {
+  color: hsl(245, 69%, 60%);
+}
