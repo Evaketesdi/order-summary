@@ -17,6 +17,7 @@ body {
   background-color: white;
   margin: auto;
   width: max-content;
+  height: 700px;
   border-radius: 15px;
 }
 .hero-image {
